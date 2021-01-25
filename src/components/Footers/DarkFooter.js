@@ -12,15 +12,15 @@ function DarkFooter() {
           <ul>
             <li>
               <a
-                href="https://www.creative-tim.com?ref=nukr-dark-footer"
+                href="https://www.renovaesperanca.com.br"
                 target="_blank"
               >
-                DMSec
+                Renova Esperança!
               </a>
             </li>
             <li>
               <a
-                href="http://presentation.creative-tim.com?ref=nukr-dark-footer"
+                href="https://www.renovaesperanca.com.br"
                 target="_blank"
               >
                 Sobre nós
@@ -28,7 +28,7 @@ function DarkFooter() {
             </li>
             <li>
               <a
-                href="http://www.dmsec.com.br"
+                href="http://www.renovaesperanca.com.br"
                 target="_blank"
               >
                 Blog
@@ -49,7 +49,7 @@ function DarkFooter() {
             href="https://www.dmsec.com.br"
             target="_blank"
           >
-            DMSec
+            @douglasmsi
           </a>
           .
         </div>

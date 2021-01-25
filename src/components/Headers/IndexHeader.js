@@ -39,8 +39,8 @@ function IndexHeader() {
               className="n-logo"
               src={require("assets/img/now-logo.png")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">Renova Esperança.</h1>
+            <h3>Ajude a construir alguém amanhã!.</h3>
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
@@ -53,7 +53,7 @@ function IndexHeader() {
             </a>
             . Coded by{" "}
             <a
-              href="https://www.creative-tim.com?ref=nukr-index-header"
+              href="https://www.dmsec.com.br"
               target="_blank"
             >
               <img

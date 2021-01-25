@@ -15,15 +15,15 @@ function DefaultFooter() {
             <ul>
               <li>
                 <a
-                  href="https://www.dmsec.com.br"
+                  href="https://www.renovaesperanca.com.br"
                   target="_blank"
                 >
-                  DMSec
+                  Renova Esperança
                 </a>
               </li>
               <li>
                 <a
-                  href="http://https://www.dmsec.com.br"
+                  href="http://https://www.renovaesperanca.com.br"
                   target="_blank"
                 >
                   Sobre nós
@@ -31,7 +31,7 @@ function DefaultFooter() {
               </li>
               <li>
                 <a
-                  href="http://https://www.dmsec.com.br"
+                  href="http://https://www.renovaesperanca.com.br"
                   target="_blank"
                 >
                   Blog
@@ -52,7 +52,7 @@ function DefaultFooter() {
               href="https://www.dmsec.com.br"
               target="_blank"
             >
-              DMSec
+              @douglasmsi
             </a>
             .
           </div>

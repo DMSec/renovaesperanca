@@ -12,23 +12,23 @@ function TransparentFooter() {
           <ul>
             <li>
               <a
-                href="https://www.creative-tim.com?ref=nukr-transparent-footer"
+                href="https://www.renovaesperanca.com.br"
                 target="_blank"
               >
-                Creative Tim
+                Renova Esperança!
               </a>
             </li>
             <li>
               <a
-                href="http://presentation.creative-tim.com?ref=nukr-transparent-footer"
+                href="http://www.renovaesperanca.com.br"
                 target="_blank"
               >
-                About Us
+                Sobre nós
               </a>
             </li>
             <li>
               <a
-                href="http://blog.creative-tim.com?ref=nukr-transparent-footer"
+                href="http://www.renovaesperanca.com.br"
                 target="_blank"
               >
                 Blog
@@ -39,17 +39,17 @@ function TransparentFooter() {
         <div className="copyright" id="copyright">
           © {new Date().getFullYear()}, Designed by{" "}
           <a
-            href="https://www.invisionapp.com?ref=nukr-transparent-footer"
+            href="https://www.dmsec.com.br"
             target="_blank"
           >
-            Invision
+            DMSec
           </a>
           . Coded by{" "}
           <a
-            href="https://www.creative-tim.com?ref=nukr-transparent-footer"
+            href="https://www.dmsec.com.br"
             target="_blank"
           >
-            Creative Tim
+            @douglasmsi
           </a>
           .
         </div>

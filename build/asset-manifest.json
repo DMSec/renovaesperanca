@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3c71346.chunk.css",
+    "main.js": "/static/js/main.a2597daa.chunk.js",
+    "main.js.map": "/static/js/main.a2597daa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f0eea2b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f0eea2b.js.map",
+    "static/js/2.7573a700.chunk.js": "/static/js/2.7573a700.chunk.js",
+    "static/js/2.7573a700.chunk.js.map": "/static/js/2.7573a700.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c99303baa39341dc6d0dd6c8a53c7b7d.js": "/precache-manifest.c99303baa39341dc6d0dd6c8a53c7b7d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e3c71346.chunk.css.map": "/static/css/main.e3c71346.chunk.css.map",
+    "static/js/2.7573a700.chunk.js.LICENSE.txt": "/static/js/2.7573a700.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/static/media/avatar.7257a1a9.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.6b1983a2.jpg",
+    "static/media/bg11.jpg": "/static/media/bg11.e643a6cf.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.f807b37b.jpg",
+    "static/media/bg4.jpg": "/static/media/bg4.4bff5d45.jpg",
+    "static/media/bg6.png": "/static/media/bg6.f234c2a2.png",
+    "static/media/bg7.jpg": "/static/media/bg7.607a4a36.jpg",
+    "static/media/creative-tim-white-slim2.png": "/static/media/creative-tim-white-slim2.f7cb2d39.png",
+    "static/media/eva.jpg": "/static/media/eva.089c4f4e.jpg",
+    "static/media/header.jpg": "/static/media/header.ffcc99c4.jpg",
+    "static/media/hero-image-1.png": "/static/media/hero-image-1.a76c7b4c.png",
+    "static/media/hero-image-2.png": "/static/media/hero-image-2.9616730d.png",
+    "static/media/hero-image-3.png": "/static/media/hero-image-3.02cd0e2d.png",
+    "static/media/invision-white-slim.png": "/static/media/invision-white-slim.300494e9.png",
+    "static/media/julie.jpg": "/static/media/julie.138381e5.jpg",
+    "static/media/landing.jpg": "/static/media/landing.f8fba454.jpg",
+    "static/media/login.jpg": "/static/media/login.b2101951.jpg",
+    "static/media/now-ui-kit.scss?v=1.4.0": "/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/profile.jpg": "/static/media/profile.225653f9.jpg",
+    "static/media/ryan.jpg": "/static/media/ryan.f217f346.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f0eea2b.js",
+    "static/js/2.7573a700.chunk.js",
+    "static/css/main.e3c71346.chunk.css",
+    "static/js/main.a2597daa.chunk.js"
+  ]
+}
